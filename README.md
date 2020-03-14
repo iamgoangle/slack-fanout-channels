@@ -6,8 +6,6 @@ We are going to create a [webhook](https://api.slack.com/messaging/webhooks) to 
 
 ![flow](https://github.com/iamgoangle/slack-fanout-channels/blob/master/assets/flow.png)
 
-![flow](https://github.com/iamgoangle/slack-fanout-channels/blob/master/assets/flow.png)
-
 ### Getting Started
 
 Update `.env` for the configuration below.
