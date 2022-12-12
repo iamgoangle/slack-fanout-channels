@@ -19,7 +19,7 @@
     "dependencies": {
         "@slack/web-api": "^5.8.0",
         "@slack/webhook": "^5.0.3",
-        "express": "^4.17.1"
+        "express": "^4.17.3"
     },
     "devDependencies": {
         "dotenv": "^8.2.0"
